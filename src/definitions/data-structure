@@ -1,11 +1,11 @@
 Please answer the below Data Structure Questions:
 
 Q. why do we need data structure?
-A.
+A.to store the data (in a list) and used it is given according to us bousion
 
 ------------------------------------------------------------------------------------------------------------------------
 What are the various operations that can be performed on different Data Structures?
-A.
+A.FileReader, BufferedReader ...
 
 ------------------------------------------------------------------------------------------------------------------------
 Q. List out the areas in which data structures are applied extensively?
@@ -13,15 +13,17 @@ A.
 
 ------------------------------------------------------------------------------------------------------------------------
 Q. What is an Array?
-A.
+A.An array is a container object that holds a fixed number of values of a single type
 
 ------------------------------------------------------------------------------------------------------------------------
 Q. What is the difference between the Array and ArrayList?
-A.
+A.An array has both primitive data types as well as object data types. However,
+ArrayList has only object-type data entries and not primitive data types.
 
 ------------------------------------------------------------------------------------------------------------------------
 Q. What is LinkedList?
-A.
+A.Java LinkedList class uses a doubly linked list to store the elements. It provides a linked-list data structure.
+It inherits the AbstractList class and implements List and Deque interfaces.
 
 ------------------------------------------------------------------------------------------------------------------------
 Q. How is an ArrayList different from Linked List?
@@ -29,7 +31,8 @@ A.
 
 ------------------------------------------------------------------------------------------------------------------------
 Q. What is the difference between the HashTable and HashMap?
-A.
+A.ArrayList internally uses a dynamic array to store the elements.
+LinkedList internally uses a doubly linked list to store the elements.
 
 ------------------------------------------------------------------------------------------------------------------------
 Q. What are the major data structures used in the following areas : RDBMS, Network data model and Hierarchical data model?
@@ -37,12 +40,13 @@ A.
 
 ------------------------------------------------------------------------------------------------------------------------
 Q. How HashMap works in java?
-A.
+A.A HashMap however, store items in "key/value" pairs, and you can access them by an index of another type (e.g. a String).
 
 ------------------------------------------------------------------------------------------------------------------------
 Q. What is ArrayIndexOutOfBoundsException in java? When it occurs?
-A.
+A.The ArrayIndexOutOfBoundsException is one of the most common errors in Java. It occurs when a program attempts
+to access an invalid index in an array i.e. an index that is less than 0, or equal to or greater than the length of the array.
 
 ------------------------------------------------------------------------------------------------------------------------
 Q. What are the different ways of copying an array into another array?
-A.
+A.for loop,   (T1 = T2.clone();T2[0]++;) ,  (System.arraycopy(T1, 0, T2, 0, T1.length);T2[0]++;)
