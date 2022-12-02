@@ -81,19 +81,26 @@ the main() method by the JVM.
 
 ------------------------------------------------------------------------------------------------------------------------
 Q. Which class is the superclass of all classes in java?
-A.
+A.A Java class hierarchy always starts with the Object class, which is the superclass of all Java classes you can write.
 
 ------------------------------------------------------------------------------------------------------------------------
 Q. What is difference between path and classpath variables?
-A.
+A.path variable is used to set the path for all Java software tools like javac.exe, java.exe, javadoc.exe, and so on.
+classpath variable is used to set the path for java classes.
 
 ------------------------------------------------------------------------------------------------------------------------
 Q. What is the difference between an Interface and Abstract class?
-A.
+A.A class can inherit properties and methods from an abstract class using the extends keyword.
+To implement an Interface in Java, you can use the implements keyword.
+An abstract class can have abstract or non-abstract methods defined in it. Abstract methods are those for which no implementation is provided.
+An interface can only contain abstract methods. We can only provide the method definition but not its implementation.
 
 ------------------------------------------------------------------------------------------------------------------------
 Q. Can you make an Object from an Interface and Abstract class ? how do you use interface and abstract class?
-A.
+A.A class whose keyword is “abstract” is called an abstract class. Abstract classes must have at least one abstract method,
+that is, methods without a body. It can have several concrete methods (methods that have code).
+An interface can be used to implement a class. The interface does not contain any method that has code.
+All methods of an interface are abstract methods.
 
 ------------------------------------------------------------------------------------------------------------------------
 Q. What is Access Specifier?
