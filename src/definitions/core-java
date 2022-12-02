@@ -1,0 +1,216 @@
+Please answer the below core-java Questions:
+
+Q. What is programing language?
+A.the language which makes it possible to describe all the consecutive actions which a computer will have to carry out.
+So this is how we have to communicate with computers and give them various instructions.
+It is also important to know that the languages that allow communication between computers have nothing to do with the computer languages that we are going to talk about,
+in this case we are talking about communication protocols, they are two completely different principles. In short,
+a computer language makes it possible to interpret an action of the processor at each instruction.
+
+------------------------------------------------------------------------------------------------------------------------
+Q. What are the jdk components ? define each component?
+A.
+JDK is the main component of any Java environment. JDK contains JRE (Java Runtime Environment) with Java compiler, Java debugger and other main classes.
+JDK is used for Java development as it provides the entire executable and binaries along with the tools needed to compile, debug a Java program.
+
+The Java Runtime Environment (JRE):
+JRE, as the name suggests, is the runtime environment required to run Java programs and applications.
+JRE consists of a Java Virtual Machine (JVM) and binaries and other classes to successfully run Java programs.
+
+
+The Java Virtual Machine (JVM):
+JVM is the center of the Java programming language and the Java platform.
+The JVM converts byte code into machine-specific code (also called object code in other programming languages).
+
+------------------------------------------------------------------------------------------------------------------------
+Q. What is an IDE?
+A.An integrated development environment, or IDE, is application building software that brings together frequently used
+  development tools into a single graphical user interface (GUI).
+  An IDE normally consists of the following:
+     * Source code editor
+     * Local version automation utilities
+     * Debugger
+------------------------------------------------------------------------------------------------------------------------
+Q. What are the IDEs available in the market to support java?
+A.IntelliJ IDEA
+  Netbeans
+  Eclipse
+  Android Studio
+  VS CODE
+  BlueJ
+  jGrasp
+
+------------------------------------------------------------------------------------------------------------------------
+Q. Explain the entire java life cycle.
+A.Life cycle of a java program tells us what happens right from the point when we type source code in a text editor
+to the point that source code is converted into machine code (0’s and 1’s).
+  There are three main stages in the life cycle of a java program. They are:
+  Editing the program
+  Compiling the source code
+  Executing the byte code
+------------------------------------------------------------------------------------------------------------------------
+Q. What is class?
+A.A class is a group of objects which have common properties. It is a template or blueprint from which objects are created.
+It is a logical entity. It can't be physical.
+  A class in Java can contain:
+  Fields
+  Methods
+  Constructors
+  Blocks
+  Nested class and interface
+
+------------------------------------------------------------------------------------------------------------------------
+Q. What is object?
+A.Software objects are conceptually similar to real-world objects: they too consist of state and related behavior.
+An object stores its state in fields (variables in some programming languages) and exposes its behavior through methods
+(functions in some programming languages).
+
+------------------------------------------------------------------------------------------------------------------------
+Q. What is the entry point of an application?
+A.In computer programming, an entry point is the place in a program where the execution of a program begins,
+and where the program has access to command line arguments.
+To start a program's execution, the loader or operating system passes control to its entry point. (During booting,
+the operating system itself is the program). This marks the transition from load time
+(and dynamic link time, if present) to run time.
+
+------------------------------------------------------------------------------------------------------------------------
+Q. Why main method is static?
+A.The main() method is static so that JVM can invoke it without instantiating the class. This also saves
+the unnecessary wastage of memory which would have been used by the object declared only for calling
+the main() method by the JVM.
+
+------------------------------------------------------------------------------------------------------------------------
+Q. Which class is the superclass of all classes in java?
+A.
+
+------------------------------------------------------------------------------------------------------------------------
+Q. What is difference between path and classpath variables?
+A.
+
+------------------------------------------------------------------------------------------------------------------------
+Q. What is the difference between an Interface and Abstract class?
+A.
+
+------------------------------------------------------------------------------------------------------------------------
+Q. Can you make an Object from an Interface and Abstract class ? how do you use interface and abstract class?
+A.
+
+------------------------------------------------------------------------------------------------------------------------
+Q. What is Access Specifier?
+A.
+
+------------------------------------------------------------------------------------------------------------------------
+Q. What is OOP ? Define each feature of java OOP.
+A.
+
+------------------------------------------------------------------------------------------------------------------------
+Q. What is Java Package and which package is imported by default?
+A.
+
+------------------------------------------------------------------------------------------------------------------------
+Q. What is API? Name list of API that you have used so far.
+A.
+
+------------------------------------------------------------------------------------------------------------------------
+Q. Does java support multiple inheritance?
+A.
+
+------------------------------------------------------------------------------------------------------------------------
+Q. What is method overloading and when it happens?
+A.
+
+------------------------------------------------------------------------------------------------------------------------
+Q. Explain exceptions in java and how to handle it?
+A.
+
+------------------------------------------------------------------------------------------------------------------------
+Q. What is static keyword in java? How it has been used in variables, methods and classes?
+A.
+
+------------------------------------------------------------------------------------------------------------------------
+Q. What is final and how it has been used variables, methods and classes?
+A.
+
+------------------------------------------------------------------------------------------------------------------------
+Q. What is final, finally and finalize?
+A.
+
+------------------------------------------------------------------------------------------------------------------------
+Q. What is a constructor ?
+A.
+
+------------------------------------------------------------------------------------------------------------------------
+Q. Can we have multiple constructors in a class?
+A.
+
+------------------------------------------------------------------------------------------------------------------------
+Q. If we don't have a constructor declared, what is called during the object creation?
+A.
+
+------------------------------------------------------------------------------------------------------------------------
+Q. What is "this" keyword in java ?
+A.
+
+------------------------------------------------------------------------------------------------------------------------
+Q. What is "super" keyword in java? How to use it?
+A.
+
+------------------------------------------------------------------------------------------------------------------------
+Q. What is JVM stand for?
+A.
+
+------------------------------------------------------------------------------------------------------------------------
+Q. Is JVM platform independent?
+A.
+
+------------------------------------------------------------------------------------------------------------------------
+Q. What version of java are you using?
+A.
+
+------------------------------------------------------------------------------------------------------------------------
+Q. What is JAR stand for?
+A.
+
+------------------------------------------------------------------------------------------------------------------------
+Q. What is the difference between JDK and JVM?
+A.
+
+------------------------------------------------------------------------------------------------------------------------
+Q. What is the difference between JVM and JRE?
+A.
+
+------------------------------------------------------------------------------------------------------------------------
+Q. What is compile time and run time?
+A.
+
+------------------------------------------------------------------------------------------------------------------------
+Q. What is the difference between String, StringBuffer and StringBuilder?
+A.
+
+------------------------------------------------------------------------------------------------------------------------
+Q. What is Singleton class?
+A.
+
+------------------------------------------------------------------------------------------------------------------------
+Q. What is the difference between while and do..while loop?
+A.
+
+------------------------------------------------------------------------------------------------------------------------
+Q. What is Enum?
+A.
+
+------------------------------------------------------------------------------------------------------------------------
+Q. What is Iterator?
+A.
+
+------------------------------------------------------------------------------------------------------------------------
+Q. Which one will take more memory, an int or Integer?
+A.
+
+------------------------------------------------------------------------------------------------------------------------
+Q. What is JIT stands for?
+A.
+
+------------------------------------------------------------------------------------------------------------------------
+Q. What is Recursion?
+A.
