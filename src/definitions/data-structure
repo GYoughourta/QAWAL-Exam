@@ -9,8 +9,8 @@ A.FileReader, BufferedReader ...
 
 ------------------------------------------------------------------------------------------------------------------------
 Q. List out the areas in which data structures are applied extensively?
-A.
-
+A.Data structures are essential in almost every aspect where data is involved. In general, algorithms that involve
+efficient data structure is applied in the following areas: numerical analysis, operating system.
 ------------------------------------------------------------------------------------------------------------------------
 Q. What is an Array?
 A.An array is a container object that holds a fixed number of values of a single type
@@ -27,8 +27,8 @@ It inherits the AbstractList class and implements List and Deque interfaces.
 
 ------------------------------------------------------------------------------------------------------------------------
 Q. How is an ArrayList different from Linked List?
-A.
-
+A.The major difference between Array and Linked list regards to their structure. Arrays are index based data structure 
+where each element associated with an index.
 ------------------------------------------------------------------------------------------------------------------------
 Q. What is the difference between the HashTable and HashMap?
 A.ArrayList internally uses a dynamic array to store the elements.
@@ -36,7 +36,7 @@ LinkedList internally uses a doubly linked list to store the elements.
 
 ------------------------------------------------------------------------------------------------------------------------
 Q. What are the major data structures used in the following areas : RDBMS, Network data model and Hierarchical data model?
-A.
+A.RDBMS - Array (i.e. Array of structures) Network data model - Graph Hierarchical data model - Trees
 
 ------------------------------------------------------------------------------------------------------------------------
 Q. How HashMap works in java?
